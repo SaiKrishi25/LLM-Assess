@@ -41,7 +41,7 @@ ENV/
 *.h5
 *.ckpt
 models/
-dataset/
+# dataset/
 processed_data/
 
 # Logs and results
