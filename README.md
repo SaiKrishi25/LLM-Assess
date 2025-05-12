@@ -106,8 +106,6 @@ Key dependencies include:
 
 For a complete list of dependencies, see `requirements.txt`.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 - Wang et al. for their groundbreaking research on LLMs as text classifiers
