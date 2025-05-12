@@ -69,8 +69,8 @@ The implementation uses a Large Language Model with the following components:
 #### 4.2 Model Configuration
 - Batch size: 32
 - Maximum sequence length: 64
-- Prompt templates: Optimized for classification
-- Few-shot examples: Carefully selected for each class
+- Prompt templates: Optimized for classification (using approlabs.ipynb prompt template)
+- Few-shot examples: Carefully selected (using approlabs.ipynb few-shot examples) for each class
 - Hardware: CPU/GPU configuration
 
 #### 4.3 Evaluation Metrics
