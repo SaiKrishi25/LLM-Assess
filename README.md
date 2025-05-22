@@ -1,4 +1,4 @@
-# LLM Assessment Project
+# LLM - Zero Shot Text Classification
 
 ## Project Overview
 This project implements and evaluates a Large Language Model (LLM) based text classification system, building upon recent research by Wang et al. (2023) that demonstrates the effectiveness of LLMs as zero-shot classifiers. The implementation includes a complete pipeline from data preprocessing to model evaluation, with comprehensive documentation and analysis.
